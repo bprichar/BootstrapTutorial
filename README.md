@@ -1,6 +1,1 @@
-Bootstrap Tutorial
-==================
-
-Just going through a Bootstrap tutorial.
-
-[This one](https://www.tutorialrepublic.com/twitter-bootstrap-tutorial).
+This project has moved to https://gitlab.com/everythingfunctional/BootstrapTutorial
